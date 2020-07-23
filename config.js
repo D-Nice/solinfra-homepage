@@ -30,7 +30,7 @@ module.exports = {
             infrastructure, we're here for you.
             Our experienced team will blueprint and manage the ideal
             infrastructure to make your service run efficiently, with resilience and
-            scalablity in mind.
+            scalability in mind.
 `
 
   },
