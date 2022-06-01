@@ -33,7 +33,7 @@
     "react-images": "^0.5.19",
     "react-scrollspy": "^3.4.0",
     "rimraf": "^2.6.3",
-    "sharp": "^0.23.0",
+    "sharp": "^0.30.5",
     "smoothscroll-polyfill": "^0.4.4"
   },
   "scripts": {
